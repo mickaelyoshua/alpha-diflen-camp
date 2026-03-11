@@ -208,3 +208,6 @@ __marimo__/
 
 # Insta-bot calibration data
 insta-bot/calibration.json
+
+# PDFs (markdown versions are tracked)
+*.pdf
