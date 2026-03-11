@@ -29,16 +29,9 @@ Repositório de anotações e gestão da equipe **Alpha** para o **Acampamento d
 
 ## Competição Pré-Camp 2026
 
-### 1. Amor e Ação — Arrecadação de Alimentos
-- **Período:** 07/02 a 31/03
-- **Pontuação:** 1 kg = 1 ponto
-- **Responsável:** Marcelo
-- **PIX:** 60359389309 (Marcelo Santos Souza) — valor enviado será convertido em kg
-- **Entrega presencial:** levar alimentos todo domingo na igreja, entregar para Andinha, Wictor ou Thays
+### ~~1. Amor e Ação — Arrecadação de Alimentos~~ (CANCELADO)
 
-### 2. Amor e Ação — Doação de Sangue
-- **Período:** 01/03 a 31/03
-- **Pontuação:** 10 pontos por pessoa que doar
+### ~~2. Amor e Ação — Doação de Sangue~~ (CANCELADO)
 
 ### 3. Vídeo
 - **Prazo de entrega:** até 15/03
