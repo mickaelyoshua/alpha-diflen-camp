@@ -23,11 +23,11 @@
 | # | Membro | Convidado | Evento | Pontos | Data |
 |---|--------|-----------|--------|--------|------|
 | 1 | Anamel | Vinicius | Culto de Celebração | +10 | 08/02 |
-| 2 | Marialuiza | Vinícios | Culto de Celebração | +10 | 15/02 |
-| 3 | Marialuiza | Geovane | Culto de Celebração | +10 | 15/02 |
-| 4 | Marialuiza | Marilene | Culto de Celebração | +10 | 15/02 |
-| 5 | Marialuiza | Rosicleide | Culto de Celebração | +10 | 15/02 |
-| 6 | Marialuiza | Maria do Carmo | Culto de Celebração | +10 | 15/02 |
+| 2 | Maju | Vinícios | Culto de Celebração | +10 | 15/02 |
+| 3 | Maju | Geovane | Culto de Celebração | +10 | 15/02 |
+| 4 | Maju | Marilene | Culto de Celebração | +10 | 15/02 |
+| 5 | Maju | Rosicleide | Culto de Celebração | +10 | 15/02 |
+| 6 | Maju | Maria do Carmo | Culto de Celebração | +10 | 15/02 |
 | 7 | Clara | Jaqueline | Culto de Celebração | +10 | 21/02 |
 | 8 | Rachel | Josy | Culto de Celebração | +10 | 01/03 |
 | 9 | Rachel | Amiga de Josy | Culto de Celebração | +10 | 01/03 |
@@ -37,9 +37,9 @@
 
 **Subtotal: 120 pontos**
 
-## Desafio Relâmpago — Diflen Reforma (5pt por membro presente)
+## Desafio Relâmpago — Presença no Diflen Reforma (5pt por membro presente)
 
-Evangelismo numa praça — 07/03
+Diflen Reforma — 07/03
 
 | # | Membro | Pontos |
 |---|--------|--------|
